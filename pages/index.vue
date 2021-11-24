@@ -9,7 +9,7 @@
             <div class="col p-3 text-center">
                 <p><b-input v-model="username" variant="dark" placeholder="Enter your username"></b-input></p>
                 <p><b-input v-model="password" variant="dark" placeholder="Enter your password"></b-input></p>
-                <b-button @click="login(); $bvToast.show('login-toast')">Login</b-button>
+                <b-button variant="dark" @click="login(); $bvToast.show('login-toast')">Login</b-button>
             </div>
         </div>
 
