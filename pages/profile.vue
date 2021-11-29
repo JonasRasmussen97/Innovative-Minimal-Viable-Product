@@ -89,7 +89,7 @@ export default {
             ],
             options: [
                 "Thomas Finch Rasmussen",
-                "Tobias Sztuk Ahrenschneider",
+                "Tobias Ahrenschneider Sztuk",
                 "Jonas Støve Rasmussen"
             ]
         }
