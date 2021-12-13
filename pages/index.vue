@@ -1,10 +1,5 @@
 <template>
     <div class="container">
-        <div class="row">
-            <div class="col p-3 text-center">
-                <b-img src="../static/logo.png"></b-img> 
-            </div>
-        </div>
          <div class="row">
             <div class="col p-3 text-center">
                 <p><b-input v-model="username" variant="dark" placeholder="Enter your username"></b-input></p>

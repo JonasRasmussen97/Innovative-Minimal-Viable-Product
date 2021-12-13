@@ -57,6 +57,11 @@
               <b>Issued At:</b> {{this.selectedCertificateDate}}
           </div>
       </div>
+      <div class="row">
+          <div class="col">
+              <b>Issued At:</b> {{this.selectedCertificateDate}}
+          </div>
+      </div>
 
     </div>
   </b-modal>
