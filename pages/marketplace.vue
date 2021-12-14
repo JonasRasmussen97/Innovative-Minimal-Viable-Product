@@ -32,7 +32,7 @@
     </div>
     <div class="row">
       <div class="col">
-        * The market is open from 14:00 to 18:00. Any orders placed outside that time space will be executed the next day.
+        <!--* The market is open from 14:00 to 18:00. Any orders placed outside that time space will be executed the next day. -->
       </div>
     </div>
 
